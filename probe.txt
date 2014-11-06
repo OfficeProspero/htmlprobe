@@ -3,3 +3,4 @@ added second line in text file
 lets add another third line
 adding 1
 adding 2
+adding 3
