@@ -2,3 +2,4 @@ this is a text file
 added second line in text file
 lets add another third line
 adding 1
+adding 2
