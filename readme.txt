@@ -1,3 +1,2 @@
-this is proben file
-this is edit in the new branch
-this is another edit on the branch new edit
+This project is about trying the HTML5 specifications and compliance with the new browsers. 
+It is a testing repo.
